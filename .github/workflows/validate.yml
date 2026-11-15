@@ -1,4 +1,4 @@
-name: Registry prüfen
+name: Validate registry
 
 on:
   push:
